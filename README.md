@@ -1,4 +1,4 @@
-# Business Skills 🧠🤖
+# Business Skills
 
 **Una biblioteca abierta de 21 agentes de IA especializados en negocio, ventas, contenido, growth e impacto social — en español.**
 
